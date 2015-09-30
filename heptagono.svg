@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 526.3622047"
+   width="560pt"
+   height="400pt"
+   viewBox="0 0 700.00002 250.08605"
    id="svg3578"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="heptagono.svg">
   <defs
      id="defs3580" />
@@ -25,18 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
+     inkscape:zoom="0.49497475"
      inkscape:cx="282.88288"
-     inkscape:cy="885.53675"
+     inkscape:cy="542.08489"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-grids="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="701"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
      inkscape:window-x="-6"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-center="false"
+     units="pt" />
   <metadata
      id="metadata3583">
     <rdf:RDF>
@@ -52,10 +54,11 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-552.36222)">
     <g
        id="g3615"
-       transform="translate(112.12693,-12.626907)">
+       transform="matrix(2.002,0,0,2.002,150.22444,324.12341)">
       <path
          inkscape:connector-curvature="0"
          id="path3586"

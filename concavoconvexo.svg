@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 526.3622047"
+   width="560pt"
+   height="400pt"
+   viewBox="0 0 700.00002 250.08604"
    id="svg3522"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="concavoconvexo.svg">
   <defs
      id="defs3524" />
@@ -25,17 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0677291"
-     inkscape:cx="339.16093"
-     inkscape:cy="944.0308"
+     inkscape:zoom="0.51693228"
+     inkscape:cx="11.264979"
+     inkscape:cy="518.44313"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="701"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
      inkscape:window-x="-6"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="pt" />
   <metadata
      id="metadata3527">
     <rdf:RDF>
@@ -51,15 +52,16 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-552.36222)">
     <path
-       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 149.92292,87.535642 56.1002,-36.755298 53.19845,38.689787 -34.33718,54.649329 -71.09249,1.45086 z"
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.310475,645.68475 112.200395,-73.5106 106.3969,77.37957 -68.67436,109.29866 -142.18498,2.90172 z"
        id="path3530"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 351.59344,79.797685 -48.36223,38.206165 56.10019,42.55876 73.99421,-57.06743 -64.80539,7.25433 z"
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 467.93618,588.87513 371.21172,665.28747 483.4121,750.40499 631.40052,636.27012 501.78974,650.77879 Z"
        id="path3542"
        inkscape:connector-curvature="0" />
   </g>
